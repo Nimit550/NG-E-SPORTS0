@@ -1,0 +1,7 @@
+body {
+    font-size: 15pt;
+}
+
+p {color:green;
+   background:yellow;
+   display:inline-block;}
